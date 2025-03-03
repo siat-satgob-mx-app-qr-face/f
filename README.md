@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +7,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: linear-gradient(to bottom, #f8f5f0, #ebe1d1);
+            background: linear-gradient(to bottom, ![HACIENDA-SAT](https://github.com/user-attachments/assets/cc1daf77-ef63-4613-946e-22cbfab7e340)
+#f8f5f0, #ebe1d1);
             text-align: center;
             margin: 0;
             padding: 0;
